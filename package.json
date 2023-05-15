@@ -1,0 +1,26 @@
+{
+  "name": "fastify-nextjs-bug",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "homepage": "https://github.com/joshuaavalon/fastify-nextjs-bug#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshuaavalon/fastify-nextjs-bug.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joshuaavalon/fastify-nextjs-bug/issues"
+  },
+  "author": "Joshua Avalon",
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "dependencies": {
+    "@fastify/nextjs": "9.2.0",
+    "fastify": "4.17.0"
+  }
+}
